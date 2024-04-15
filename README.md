@@ -7,4 +7,4 @@
 </div>
 
 
-![Snake animation](https://github.com/amandaamendoeira/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/amandaamendoeira/amandaamendoeira/blob/output/github-contribution-grid-snake.svg)
