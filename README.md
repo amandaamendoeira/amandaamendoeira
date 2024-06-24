@@ -16,4 +16,3 @@
   <a href="https://www.linkedin.com/in/amandaamendoeira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div><img style="margin-bottom: 30px" class="img-container" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" alt="gato teclando"></div>
-
