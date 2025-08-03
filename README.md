@@ -1,5 +1,5 @@
 
-## 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <div>
 
@@ -29,7 +29,7 @@
 
 <h4>You can find me:</h4>
 
-<a href="https://www.linkedin.com/in/amandaamendoeira/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/amandaamendoeira/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
     width="52"
@@ -37,7 +37,7 @@
     alt="LinkedIn logo"
   />
 </a>
-<a href="https://discordapp.com/users/eianahi" target="_blank" rel="noopener noreferrer">
+<a href="https://discordapp.com/users/eianahi" target="_blank">
   <img
     src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
     width="52"
@@ -45,7 +45,7 @@
     alt="Discord logo"
   />
 </a>
-<a href="https://www.instagram.com/amandaamendoeira/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/amandaamendoeira/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
     width="52"
@@ -53,7 +53,7 @@
     alt="Instagram logo"
   />
 </a>
-<a href="https://www.twitch.tv/eianahi" target="_blank" rel="noopener noreferrer">
+<a href="https://www.twitch.tv/eianahi" target="_blank">
   <img
     src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg"
     width="52"
